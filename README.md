@@ -1,2 +1,2 @@
-# infosis
-file database system for a desktop app using electronJS
+# Infosis
+File database system for a desktop app using electronJS
